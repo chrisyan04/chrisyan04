@@ -11,3 +11,4 @@ As an avid follower and learner of AI software, I immerse myself with challenges
 
 
 I welcome you to find more about me on my website: <a href="https://chrisyan04.github.io/Personal-Website-2/">Meet Chris!</a>
+Note: website under development (not complete).
