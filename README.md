@@ -1,5 +1,5 @@
 ## Hey there, welcome to my GitHub! 👋
------
+
 I'm <a href="https://chrisyan04.github.io/Personal-Website-2/">Chris Yan</a>, a budding data scientist and freelance software developer currently specializing in machine learning and data science as a second-year student at the <a href="https://www.utoronto.ca/">University of Toronto</a>.📚
 As an avid follower and learner of AI software, I immerse myself with challenges that represent my vision in creating cutting-edge solutions to improve the daily lives of people worldwide.
 
