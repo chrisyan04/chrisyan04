@@ -27,7 +27,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - 🏒 In my I enjoy playing and watching ice hockey at competitive levels.
 
-- 📨 Feel free to reach out to me via: (![Linkedin Badge](https://img.shields.io/badge/-Chris_Yan-blue?style=flat&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/chris-yan-97820a228/))
+- 📨 Feel free to reach out to me via: ![Linkedin Badge](https://img.shields.io/badge/-Chris_Yan-blue?style=flat&logo=Linkedin&logoColor=white)
 ---
 
 ### ⚙️ Favorite Languages and Tools :
