@@ -52,5 +52,4 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <br>
 <br>
 <br>
-I welcome you to find more about me on my website: <a href="https://chrisyan04.github.io/Personal-Website-2/">Meet Chris!</a>
-<br>Note: website under development (not complete).
+I welcome you to find more about me on my website: <a href="https://chrisyan04.github.io/MeetMe/">Meet Chris!</a>
