@@ -25,7 +25,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - 🧠 Budding ML engineer with enthusiasm for pushing the boundaries of artificial intelligence and machine learning to create innovative solutions that positively impact the world.
 
-- 🏒 In my I enjoy playing and watching ice hockey at competitive levels.
+- 🏒 In my free time, I enjoy playing and watching ice hockey at competitive levels.
 
 - 📨 Feel free to reach out to me via: <a href="https://www.linkedin.com/in/chris-yan-97820a228/">![Linkedin Badge](https://img.shields.io/badge/-Chris_Yan-blue?style=flat&logo=Linkedin&logoColor=white)</a>
 ---
