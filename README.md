@@ -52,4 +52,4 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <br>
 <br>
 <br>
-🖥️ I welcome you to find more about me on my personal portfolio <a href="https://personal-portfolio-website-eyb2euk2x-chrisyan04.vercel.app/">website</a>.
+🖥️ I welcome you to find more about me on my personal portfolio <a href="https://personal-portfolio-website-eosin.vercel.app/">website</a>.
