@@ -30,24 +30,24 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - 📨 Feel free to reach out to me via: <a href="https://www.linkedin.com/in/chris-yan-97820a228/">![Linkedin Badge](https://img.shields.io/badge/-Chris_Yan-blue?style=flat&logo=Linkedin&logoColor=white)</a>
 ---
 
-### ⚙️ Favorite Languages and Technologies :
+<h2 align="center">⚙️ Favorite Languages and Technologies</h2>
 <div id="languages" align="center">
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a> <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></a> <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
-
-### ⚙⚙ Others I know:
+<br>
+<h2 align="center">⚙⚙ Others I know</h2>
 <div id="languages" align="center">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <br>
-  <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisyan04&exclude_repo=House-Pricing-Predictor,UTSC-Korean-Eats,UTSC-Tools-Academia,StoryTime,UTSC-Notes,IAI-Research-Assistant&hide=purebasic,html&include_forks=false&layout=compact&theme=vision-friendly-dark&langs_count=8" />
 </div>
 
 ---
 
 ### 📊 My Github Stats :
 <div id="stats" align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=chrisyan04&theme=tokyonight-duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://api.githubtrends.io/user/svg/chrisyan04/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark" />
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisyan04&show_icons=true&theme=tokyonight" />
 </div>
 <br>
 <br>
