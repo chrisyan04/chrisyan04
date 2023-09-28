@@ -18,7 +18,7 @@
 </h1>
 
 ### :man_technologist: Meet me!
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Toronto, Canada.
+I am a Software/ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Toronto, Canada.
 - 📚 Currently, I am a second-year undergraduate student at the <a href="https://www.utoronto.ca/" target="_blank">University of Toronto</a> studying machine learning and data science.
 
 - 💻 Software developing hobbyist with passion in web and app development.
