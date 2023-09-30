@@ -52,4 +52,4 @@ I am a Software/ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br>
 <br>
 <br>
-🖥️ I welcome you to find more about me on my personal portfolio <a href="https://personal-portfolio-website-eosin.vercel.app/">website</a>.
+🖥️ I welcome you to find more about me on my personal portfolio <a href="https://www.chrisyan.ca/">website</a>.
