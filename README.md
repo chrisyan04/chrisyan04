@@ -28,6 +28,9 @@ I am a Software/ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🏒 In my free time, I enjoy playing hockey and camping.
 
 - 📨 Feel free to reach out to me via: <a href="https://www.linkedin.com/in/chris-yan-97820a228/">![Linkedin Badge](https://img.shields.io/badge/-Chris_Yan-blue?style=flat&logo=Linkedin&logoColor=white)</a>
+<br>
+🖥️ I welcome you to find more about me on my personal portfolio <a href="https://www.chrisyan.ca/">website</a>.
+
 ---
 
 <h2 align="center">⚙️ Favorite Languages and Technologies</h2>
@@ -50,6 +53,3 @@ I am a Software/ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github-readme-stats.vercel.app/api?username=chrisyan04&show_icons=true&theme=tokyonight" />
 </div>
 <br>
-<br>
-<br>
-🖥️ I welcome you to find more about me on my personal portfolio <a href="https://www.chrisyan.ca/">website</a>.
