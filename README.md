@@ -18,16 +18,16 @@
 </h1>
 
 ### :man_technologist: Meet me!
-I am a Software/ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Toronto, Canada.
-- 📚 Currently, I am a third-year undergraduate student at the <a href="https://www.utoronto.ca/" target="_blank">University of Toronto</a> specializing in machine learning and data science, majoring in math, and minoring in economics.
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Toronto, Canada.
+- 📚 Currently, I am a senior at the <a href="https://www.utoronto.ca/" target="_blank">University of Toronto</a> pursuing an undergraduate specializing in machine learning and data science, majoring in math, and minoring in economics.
 
-- 💻 Software developing hobbyist with passion in web development.
+- 💻 I like to build models.
 
-- 🧠 Budding ML engineer with enthusiasm for pushing the boundaries of artificial intelligence and machine learning to create innovative solutions that positively impact the world.
+- 🧠 Enjoyer of puzzles.
 
-- 🏒 In my free time, I enjoy playing hockey and camping.
+- 🏒 In my free time, I enjoy playing hockey and exploring nature.
 
-- 📨 Feel free to reach out to me via: <a href="https://www.linkedin.com/in/chris-yan-97820a228/">![Linkedin Badge](https://img.shields.io/badge/-Chris_Yan-blue?style=flat&logo=Linkedin&logoColor=white)</a>
+- 📨 Feel free to reach out to me via: <a href="https://www.linkedin.com/in/chris-cx-yan/">![Linkedin Badge](https://img.shields.io/badge/-Chris_Yan-blue?style=flat&logo=Linkedin&logoColor=white)</a>
 <br>
 🖥️ I welcome you to find more about me on my personal portfolio <a href="https://www.chrisyan.ca/">website</a>.
 
